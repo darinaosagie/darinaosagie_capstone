@@ -20,6 +20,7 @@ Regarding the state of Tennessee for 2019 and 2020 - this project aims to identi
 5.	What is the total number of overdoses for Hydrocodone, Oxycodone and Tramadol per county? What was the annual percentage variation?
 
 **Methodologies**
+
 **1. Gathering the Data**
 Using data from the Tennessee Department of Health website, I obtained information in Excel format about MAT center locations, prescription numbers, overdose numbers, and a data dictionary categorizing types of overdoses.
 I also acquired median income per capita data for each county and its respective year from the US Census Bureau.
