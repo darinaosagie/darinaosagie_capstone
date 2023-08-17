@@ -28,15 +28,15 @@ I also acquired median income per capita data for each county and its respective
 Data cleaning became necessary when I discovered that the Tennessee Department of Health had overdose information for all 95 counties within the state from 2017 to 2022. This database included ten different types of overdose categorizations along with overdose counts for each category. To clean this data, I first consulted the data dictionary to identify which types of overdoses applied to opioid information. Then, I filtered the data for my desired years and counties, and subsequently aggregated the counts of each overdose type by category.
 Regarding the US Census Bureau information, data cleaning proved to be tedious as county information was stored in separate CSV files, each containing 120 pieces of data for every county, categorized by year. Initially, I began data cleaning using Python, but later transitioned to Excel. First, I downloaded and converted the 2019 data to Excel format, enabling me to filter for specific needs like income per capita and population. I repeated this process for the year 2020 as well.
 
-**Visualizing the Data**
+**3. Visualizing the Data**
 Tableau was utilized to create clear and concise visualizations in a storytelling format. Two types of charts were utilized: bar charts, which effectively displayed the annual variations in income per capita, total overdose numbers, and the prescribed opioid pill count for each county; and distribution charts, which were used to identify correlations between income per capita and total overdoses, as well as between income per capita and the total number of prescribed pills per county, categorized by pill type.
 
-**Technologies Used**
+**4. Technologies Used**
 Python - pandas, numpy, seaborn, matplotlib, cleaning data
 Tableau – visualizations
 Excel – cleaning data
 
-**Data Sources**
+**5. Data Sources**
 MAT Treatment Center Locations, Prescription Data, Fatal Overdoses Data: Tennessee Department of Health 
 Median Income Per Capita Data: United States Census Bureau 
 Tennessee Counties Ranked Per Capita Income: Wikipedia 
