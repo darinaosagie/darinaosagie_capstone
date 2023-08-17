@@ -46,6 +46,9 @@ Tennessee Counties Ranked Per Capita Income: Wikipedia
 While answers to the initial research questions were inconclusive, the data highlights patterns for the Tennessee State Opioid Treatment Department to consider regarding MAT Centers in Jackson County. 
 Jackson county had the lowest income per capita throughout this dataset ($33,336 in 2019, $36,084 in 2020). However, it stood out as an outlier in all overdose categories. 
 All Opioid Overdoses: 0.08 to 0.16 per 1,000 (2020). 
+
+Tableau Public: https://public.tableau.com/views/DarinaOsagieNSSCapstone/AllOpsBenzoYOYTable?:language=en-US&:display_count=n&:origin=viz_share_link
+
 All Prescription Opioids: Stable at 0.16 (2019-2020). 
 All Opioids & Stimulants: 0.16 (2019-2020). 
 All Opioids & Benzodiazepines: 0.00% to 0.16 (2019-2020). 
