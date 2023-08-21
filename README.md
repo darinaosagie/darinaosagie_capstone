@@ -1,4 +1,4 @@
-**Sociaconomic Disparities: Investigating Opioid Prescription Rates & Fatal Overdoses in the State of Tennessee (2019 -2020)
+**Socieconomic Disparities: Investigating Opioid Prescription Rates & Fatal Overdoses in the State of Tennessee (2019 -2020)
 
 **Capstone for Nashville Software School Data Analytics Program**
 **Completion date: August 18, 2023**
