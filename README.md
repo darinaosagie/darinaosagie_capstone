@@ -47,10 +47,4 @@ While answers to the initial research questions were inconclusive, the data high
 Jackson county had the lowest income per capita throughout this dataset ($33,336 in 2019, $36,084 in 2020). However, it stood out as an outlier in all overdose categories. 
 All Opioid Overdoses: 0.08 to 0.16 per 1,000 (2020). 
 
-Tableau Public: https://public.tableau.com/views/DarinaOsagieNSSCapstone/AllOpsBenzoYOYTable?:language=en-US&:display_count=n&:origin=viz_share_link
-
-All Prescription Opioids: Stable at 0.16 (2019-2020). 
-All Opioids & Stimulants: 0.16 (2019-2020). 
-All Opioids & Benzodiazepines: 0.00% to 0.16 (2019-2020). 
-Next Steps
-The Tennessee State Opioid Treatment Department could consider establishing an additional Medication-Assisted Treatment (MAT) center in Jackson County, which currently has only one center serving the area. This move could address the unique overdose patterns observed in the county.
+Tableau Public: https://public.tableau.com/views/DarinaOsagieNashvilleSoftwareSchoolCapstone8_18_23/AllOpsBenzoYOYAnalysis?:language=en-US&:display_count=n&:origin=viz_share_link
